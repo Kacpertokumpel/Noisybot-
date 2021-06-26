@@ -1,0 +1,26 @@
+[
+  {
+    "entry": "abcdef.json",
+    "output": "json"
+  },
+  {
+    "entry": "C:/abc/def/ijk.css",
+    "output": "css"
+  },
+  {
+    "entry": "./public/.htaccess",
+    "output": "htaccess"
+  },
+  {
+    "entry": "https://abc/def/ijkdef",
+    "output": ""
+  },
+  {
+    "entry": "https://abc/def/ijkdef.pdf",
+    "output": "pdf"
+  },
+  {
+    "entry": "./assets/images/logo.png",
+    "output": "png"
+  }
+]

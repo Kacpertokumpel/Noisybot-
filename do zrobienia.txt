@@ -1,0 +1,17 @@
+Administracyjne
+    tempban, idban, warn, ustawienia, unban, iloscwarnow, usunwarny, wycisz, odcisz, ustawienia, trybpowolny
+
+Bot
+    restart, wyslijpv, sudo, wyjdzzserwera, zaprosnaserwer, nakladka, nakladka+
+
+Muzyczne
+    dolacz, pomin, petla, playlista, wyjdz, pusc
+
+4Fun
+    koronawirus, niszcz, plaskacz, smietnik
+
+Praktyczne
+    ankieta, ogloszenie, pogoda, kalkulator, stream, akceptujpodanie, odrzucpodanie
+
+Profil
+    ustawimie, ustawwiek, ustawplec, ustawwojewodztwo, ustawemail, ustawodznake

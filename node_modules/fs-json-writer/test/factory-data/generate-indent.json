@@ -1,0 +1,32 @@
+[
+  {
+    "entry": [
+      0, "a"
+    ],
+    "output": ""
+  },
+  {
+    "entry": [
+      2, "a"
+    ],
+    "output": "aa"
+  },
+  {
+    "entry": [
+      2.9, "a"
+    ],
+    "output": "aa"
+  },
+  {
+    "entry": [
+      2.9
+    ],
+    "output": "\t\t"
+  },
+  {
+    "entry": [
+      5, "ab"
+    ],
+    "output": "ababababab"
+  }
+]
